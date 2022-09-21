@@ -119,7 +119,7 @@ class BST{
         BSTNode<T>* successor(T key){
 
             BSTNode<T>* ptr = search(key);
-            if(!ptr || ptr == min())
+            if(!ptr || ptr == max())
                 throw out_of_range("...successor doesn't exist...");
 
             return successor(ptr);
