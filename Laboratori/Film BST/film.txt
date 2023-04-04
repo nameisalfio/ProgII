@@ -470,7 +470,7 @@ Victor Hugo architecte;1969;5.9
 The Contender;2000;8.3
 A Cooler Climate;1999;6.3
 A Counterfeit Scent;1917;1.8
-Serial Slasher: Elias Abuelazam;;8.5
+Serial Slasher: Elias Abuelazam;2006;8.5
 Le crime de Bout-de-Zan;1913;9.2
 Cuba baila;1961;5.1
 El cuerpo del delito;1930;9.8
